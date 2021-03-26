@@ -5,8 +5,6 @@ import { Children } from 'react'
 
 const Layout = ({Children})  =>{
 
-
-
     return(
         <>
         </>
